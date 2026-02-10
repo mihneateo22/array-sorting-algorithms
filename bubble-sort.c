@@ -50,4 +50,5 @@ int main()
     print_array(array, len);
  
     return 0; 
-} 
+}
+//se face un comentariu aici pentru a reverifica comenzile git
